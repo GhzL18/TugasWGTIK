@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672598933 source:c:\users\asus\onedrive\documents\tp\tp_mod15\h.cpp
+	"h.h"
+
+1672598894 c:\users\asus\onedrive\documents\tp\tp_mod15\h.h
+	<iostream>
+
+1672599142 source:c:\users\asus\onedrive\documents\tp\tp_mod15\main.cpp
+	"h.h"
+
